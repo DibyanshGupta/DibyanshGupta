@@ -8,19 +8,19 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Dibyansh Gupta</h1>
-<h3 align="center">A passionate Software Engineer & ML Enthusiast</h3>
+<h2 align="center">A passionate Software Engineer & ML Enthusiast</h2>
 
-<img align="right" alt="coding" width="400"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="coding" width="300"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshgupta" /> </p>
-- 🌱 I'm highly interested in **Machine Learning** and **Data Science** <br />
-- 🔭 I’m currently working on **Machine Learning** <br />
-- 🌱 I’m currently learning **DSA** <br />
-- 👯 I’m looking to collaborate on any **Open-Source Project** related to my domain <br />
-- 🤔 I’m looking for help with **Deep Learning and Artificial Intelligence**  <br />
-- 💬 Ask me about **C, C++ or DSA**  <br />
-- 📫 How to reach me **dibyanshgupta2707@gmail.com** <br />
-- ⚡ Fun fact: One thing I cannot live without is my laptop.  <br />
+- 🌱 I'm highly interested in <b>Machine Learning</b> and <b>Data Science</b> <br />
+- 🔭 I’m currently working on <b>Machine Learning</b> <br />
+- 🌱 I’m currently learning <b>DSA</b> <br />
+- 👯 I’m looking to collaborate on any <b>Open-Source Project</b> related to my domain <br />
+- 🤔 I’m looking for help with <b>Deep Learning and Artificial Intelligence</b>  <br />
+- 💬 Ask me about <b>C, C++ or DSA</b>  <br />
+- 📫 How to reach me : <b>dibyanshgupta2707@gmail.com</b> <br />
+- ⚡ Fun fact : One thing I cannot live without is my laptop.  <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
