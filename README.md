@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with <b>Deep Learning and Artificial Intelligence</b>  <br />
 - 💬 Ask me about <b>C, C++ or DSA</b>  <br />
 - 📫 How to reach me : <b>dibyanshgupta2707@gmail.com</b> <br />
-- ⚡ Fun fact : One thing I cannot live without is my laptop.  <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
