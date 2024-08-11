@@ -8,16 +8,15 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Dibyansh Gupta</h1>
-<h2 align="center">A passionate Software Engineer & ML Enthusiast</h2>
+<h2 align="center">A passionate Software Engineer</h2>
 
 <img align="right" alt="coding" width="300"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyanshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="dibyanshgupta" /> </p>
-- 🌱 I'm highly interested in <b>Machine Learning</b> and <b>Data Science</b> <br />
-- 🔭 I’m currently working on <b>Machine Learning</b> <br />
+- 🔭 I’m currently working on <b>Augmented Reality</b> <br />
 - 🌱 I’m currently learning <b>DSA</b> <br />
 - 👯 I’m looking to collaborate on any <b>Open-Source Project</b> related to my domain <br />
-- 🤔 I’m looking for help with <b>Deep Learning and Artificial Intelligence</b>  <br />
+- 🤔 I’m looking for help with <b>Augmented Reality & Virutal Reality</b>  <br />
 - 💬 Ask me about <b>C, C++ or DSA</b>  <br />
 - 📫 How to reach me : <b>dibyanshgupta2707@gmail.com</b> <br />
 
